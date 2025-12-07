@@ -1,1 +1,16 @@
 @import "tailwindcss";
+
+
+@font-face {
+  font-family:Actay ;
+  src: url(./assets/Fonts/Actay.otf);
+}
+
+
+.Actay{
+  font-family: Actay;
+}
+
+::-webkit-scrollbar{
+  width: 0%;
+}
